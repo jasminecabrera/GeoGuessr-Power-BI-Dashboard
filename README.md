@@ -40,4 +40,8 @@ Each record represents a single round and contains the challenge date, round num
 
 ## Dashboard Preview
 
+<img width="1369" height="785" alt="Screenshot 2026-07-08 at 2 19 15 AM" src="https://github.com/user-attachments/assets/fa96435b-cfd6-4fc3-916d-4cba64031eca" />
+
+<img width="1372" height="788" alt="Screenshot 2026-07-08 at 2 22 08 AM" src="https://github.com/user-attachments/assets/96b00c93-9f37-4f9e-9477-5520b1f4b5da" />
+
 ## Key Findings
