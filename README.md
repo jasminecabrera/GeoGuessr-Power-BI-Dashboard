@@ -18,9 +18,11 @@ After regularly playing the GeoGuessr Daily Challenge, I noticed that Argentina 
 
 ## Dataset
 
-**Source**
+**Sources:**
 
-[Community-maintained GeoGuessr Daily Challenge Dataset](https://datastudio.google.com/reporting/6dfa0656-55fe-409d-aea8-03f040240c83/page/GhUhE?s=n3Zod6Uw62M)
+- **GeoGuessr Daily Challenge Data:** [Community-maintained GeoGuessr Daily Challenge Dataset](https://datastudio.google.com/reporting/6dfa0656-55fe-409d-aea8-03f040240c83/page/GhUhE?s=n3Zod6Uw62M)
+
+- **Geographic Mapping:** [ISO-3166 Countries with Regional Codes (via Kaggle)](https://www.kaggle.com/code/aungdev/create-country-codes-and-continents-csv-file?select=ISO-3166-Countries-with-Regional-Codes.csv) for country and region standardization.
 
 **Coverage**
 
@@ -36,7 +38,7 @@ Each record represents a single round and contains the challenge date, round num
 | :--- | :--- |
 | SQL | Data cleaning, transformation, and preprocessing |
 | Power BI | Data modeling and interactive dashboard development |
-| DAX | Measures and analytical calculations |
+| DAX & Power Query | Measures and calculated columns |
 
 ## Dashboard Preview
 
