@@ -24,7 +24,7 @@ After regularly playing the GeoGuessr Daily Challenge, I noticed that Argentina 
 
 **Coverage**
 
-- June 1, 2021 – July 3, 2026
+- June 1, 2021 – July 4, 2026
 - Approximately 9,150 rounds
 - Five rounds per Daily Challenge
 
