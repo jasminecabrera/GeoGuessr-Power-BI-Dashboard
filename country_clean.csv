@@ -1,0 +1,250 @@
+name,alpha-2,alpha-3,region,sub-region,region-code,sub-region-code,continent
+Afghanistan,AF,AFG,Asia,"Southern Asia",142,34,Asia
+Åland,AX,ALA,Europe,"Northern Europe",150,154,Europe
+Albania,AL,ALB,Europe,"Southern Europe",150,39,Europe
+Algeria,DZ,DZA,Africa,"Northern Africa",2,15,Africa
+"American Samoa",AS,ASM,Oceania,Polynesia,9,61,Oceania
+Andorra,AD,AND,Europe,"Southern Europe",150,39,Europe
+Angola,AO,AGO,Africa,"Sub-Saharan Africa",2,202,Africa
+Anguilla,AI,AIA,Americas,"Latin America and the Caribbean",19,419,"South America"
+"Antigua and Barbuda",AG,ATG,Americas,"Latin America and the Caribbean",19,419,"South America"
+Argentina,AR,ARG,Americas,"Latin America and the Caribbean",19,419,"South America"
+Armenia,AM,ARM,Asia,"Western Asia",142,145,Asia
+Aruba,AW,ABW,Americas,"Latin America and the Caribbean",19,419,"South America"
+Australia,AU,AUS,Oceania,"Australia and New Zealand",9,53,Oceania
+Austria,AT,AUT,Europe,"Western Europe",150,155,Europe
+Azerbaijan,AZ,AZE,Asia,"Western Asia",142,145,Asia
+Bahamas,BS,BHS,Americas,"Latin America and the Caribbean",19,419,"South America"
+Bahrain,BH,BHR,Asia,"Western Asia",142,145,Asia
+Bangladesh,BD,BGD,Asia,"Southern Asia",142,34,Asia
+Barbados,BB,BRB,Americas,"Latin America and the Caribbean",19,419,"South America"
+Belarus,BY,BLR,Europe,"Eastern Europe",150,151,Europe
+Belgium,BE,BEL,Europe,"Western Europe",150,155,Europe
+Belize,BZ,BLZ,Americas,"Latin America and the Caribbean",19,419,"South America"
+Benin,BJ,BEN,Africa,"Sub-Saharan Africa",2,202,Africa
+Bermuda,BM,BMU,Americas,"Northern America",19,21,"North America"
+Bhutan,BT,BTN,Asia,"Southern Asia",142,34,Asia
+Bolivia,BO,BOL,Americas,"Latin America and the Caribbean",19,419,"South America"
+"Bonaire, Sint Eustatius and Saba",BQ,BES,Americas,"Latin America and the Caribbean",19,419,"South America"
+Bosnia-Hercegovina,BA,BIH,Europe,"Southern Europe",150,39,Europe
+Botswana,BW,BWA,Africa,"Sub-Saharan Africa",2,202,Africa
+"Bouvet Island",BV,BVT,Americas,"Latin America and the Caribbean",19,419,"South America"
+Brazil,BR,BRA,Americas,"Latin America and the Caribbean",19,419,"South America"
+"British Indian Ocean Territory",IO,IOT,Africa,"Sub-Saharan Africa",2,202,Africa
+"Brunei Darussalam",BN,BRN,Asia,"South-eastern Asia",142,35,Asia
+Bulgaria,BG,BGR,Europe,"Eastern Europe",150,151,Europe
+"Burkina Faso",BF,BFA,Africa,"Sub-Saharan Africa",2,202,Africa
+Burundi,BI,BDI,Africa,"Sub-Saharan Africa",2,202,Africa
+"Cabo Verde",CV,CPV,Africa,"Sub-Saharan Africa",2,202,Africa
+Cambodia,KH,KHM,Asia,"South-eastern Asia",142,35,Asia
+Cameroon,CM,CMR,Africa,"Sub-Saharan Africa",2,202,Africa
+Canada,CA,CAN,Americas,"Northern America",19,21,"North America"
+"Cayman Islands",KY,CYM,Americas,"Latin America and the Caribbean",19,419,"South America"
+"Central African Republic",CF,CAF,Africa,"Sub-Saharan Africa",2,202,Africa
+Chad,TD,TCD,Africa,"Sub-Saharan Africa",2,202,Africa
+Chile,CL,CHL,Americas,"Latin America and the Caribbean",19,419,"South America"
+China,CN,CHN,Asia,"Eastern Asia",142,30,Asia
+"Christmas Island",CX,CXR,Oceania,"Australia and New Zealand",9,53,Oceania
+"Cocos (Keeling) Islands",CC,CCK,Oceania,"Australia and New Zealand",9,53,Oceania
+Colombia,CO,COL,Americas,"Latin America and the Caribbean",19,419,"South America"
+Comoros,KM,COM,Africa,"Sub-Saharan Africa",2,202,Africa
+Congo,CG,COG,Africa,"Sub-Saharan Africa",2,202,Africa
+"Congo, Democratic Republic of the",CD,COD,Africa,"Sub-Saharan Africa",2,202,Africa
+"Cook Islands",CK,COK,Oceania,Polynesia,9,61,Oceania
+"Costa Rica",CR,CRI,Americas,"Latin America and the Caribbean",19,419,"South America"
+"Côte d'Ivoire",CI,CIV,Africa,"Sub-Saharan Africa",2,202,Africa
+Croatia,HR,HRV,Europe,"Southern Europe",150,39,Europe
+Cuba,CU,CUB,Americas,"Latin America and the Caribbean",19,419,"South America"
+Curaçao,CW,CUW,Americas,"Latin America and the Caribbean",19,419,"South America"
+Cyprus,CY,CYP,Asia,"Western Asia",142,145,Asia
+Czechia,CZ,CZE,Europe,"Eastern Europe",150,151,Europe
+Denmark,DK,DNK,Europe,"Northern Europe",150,154,Europe
+Djibouti,DJ,DJI,Africa,"Sub-Saharan Africa",2,202,Africa
+Dominica,DM,DMA,Americas,"Latin America and the Caribbean",19,419,"South America"
+"Dominican Republic",DO,DOM,Americas,"Latin America and the Caribbean",19,419,"South America"
+Ecuador,EC,ECU,Americas,"Latin America and the Caribbean",19,419,"South America"
+Egypt,EG,EGY,Africa,"Northern Africa",2,15,Africa
+"El Salvador",SV,SLV,Americas,"Latin America and the Caribbean",19,419,"South America"
+"Equatorial Guinea",GQ,GNQ,Africa,"Sub-Saharan Africa",2,202,Africa
+Eritrea,ER,ERI,Africa,"Sub-Saharan Africa",2,202,Africa
+Estonia,EE,EST,Europe,"Northern Europe",150,154,Europe
+Eswatini,SZ,SWZ,Africa,"Sub-Saharan Africa",2,202,Africa
+Ethiopia,ET,ETH,Africa,"Sub-Saharan Africa",2,202,Africa
+"Falkland Islands (Malvinas)",FK,FLK,Americas,"Latin America and the Caribbean",19,419,"South America"
+"Faroe Islands",FO,FRO,Europe,"Northern Europe",150,154,Europe
+Fiji,FJ,FJI,Oceania,Melanesia,9,54,Oceania
+Finland,FI,FIN,Europe,"Northern Europe",150,154,Europe
+France,FR,FRA,Europe,"Western Europe",150,155,Europe
+"French Guiana",GF,GUF,Americas,"Latin America and the Caribbean",19,419,"South America"
+"French Polynesia",PF,PYF,Oceania,Polynesia,9,61,Oceania
+"French Southern Territories",TF,ATF,Africa,"Sub-Saharan Africa",2,202,Africa
+Gabon,GA,GAB,Africa,"Sub-Saharan Africa",2,202,Africa
+Gambia,GM,GMB,Africa,"Sub-Saharan Africa",2,202,Africa
+Georgia,GE,GEO,Asia,"Western Asia",142,145,Asia
+Germany,DE,DEU,Europe,"Western Europe",150,155,Europe
+Ghana,GH,GHA,Africa,"Sub-Saharan Africa",2,202,Africa
+Gibraltar,GI,GIB,Europe,"Southern Europe",150,39,Europe
+Greece,GR,GRC,Europe,"Southern Europe",150,39,Europe
+Greenland,GL,GRL,Americas,"Northern America",19,21,"North America"
+Grenada,GD,GRD,Americas,"Latin America and the Caribbean",19,419,"South America"
+Guadeloupe,GP,GLP,Americas,"Latin America and the Caribbean",19,419,"South America"
+Guam,GU,GUM,Oceania,Micronesia,9,57,Oceania
+Guatemala,GT,GTM,Americas,"Latin America and the Caribbean",19,419,"South America"
+Guernsey,GG,GGY,Europe,"Northern Europe",150,154,Europe
+Guinea,GN,GIN,Africa,"Sub-Saharan Africa",2,202,Africa
+Guinea-Bissau,GW,GNB,Africa,"Sub-Saharan Africa",2,202,Africa
+Guyana,GY,GUY,Americas,"Latin America and the Caribbean",19,419,"South America"
+Haiti,HT,HTI,Americas,"Latin America and the Caribbean",19,419,"South America"
+"Heard Island and McDonald Islands",HM,HMD,Oceania,"Australia and New Zealand",9,53,Oceania
+"Holy See",VA,VAT,Europe,"Southern Europe",150,39,Europe
+Honduras,HN,HND,Americas,"Latin America and the Caribbean",19,419,"South America"
+"Hong Kong",HK,HKG,Asia,"Eastern Asia",142,30,Asia
+Hungary,HU,HUN,Europe,"Eastern Europe",150,151,Europe
+Iceland,IS,ISL,Europe,"Northern Europe",150,154,Europe
+India,IN,IND,Asia,"Southern Asia",142,34,Asia
+Indonesia,ID,IDN,Asia,"South-eastern Asia",142,35,Asia
+"Iran (Islamic Republic of)",IR,IRN,Asia,"Southern Asia",142,34,Asia
+Iraq,IQ,IRQ,Asia,"Western Asia",142,145,Asia
+Ireland,IE,IRL,Europe,"Northern Europe",150,154,Europe
+"Isle of Man",IM,IMN,Europe,"Northern Europe",150,154,Europe
+Israel,IL,ISR,Asia,"Western Asia",142,145,Asia
+Italy,IT,ITA,Europe,"Southern Europe",150,39,Europe
+Jamaica,JM,JAM,Americas,"Latin America and the Caribbean",19,419,"South America"
+Japan,JP,JPN,Asia,"Eastern Asia",142,30,Asia
+Jersey,JE,JEY,Europe,"Northern Europe",150,154,Europe
+Jordan,JO,JOR,Asia,"Western Asia",142,145,Asia
+Kazakhstan,KZ,KAZ,Asia,"Central Asia",142,143,Asia
+Kenya,KE,KEN,Africa,"Sub-Saharan Africa",2,202,Africa
+Kiribati,KI,KIR,Oceania,Micronesia,9,57,Oceania
+"Korea (Democratic People's Republic of)",KP,PRK,Asia,"Eastern Asia",142,30,Asia
+"South Korea",KR,KOR,Asia,"Eastern Asia",142,30,Asia
+Kuwait,KW,KWT,Asia,"Western Asia",142,145,Asia
+Kyrgyzstan,KG,KGZ,Asia,"Central Asia",142,143,Asia
+Laos,LA,LAO,Asia,"South-eastern Asia",142,35,Asia
+Latvia,LV,LVA,Europe,"Northern Europe",150,154,Europe
+Lebanon,LB,LBN,Asia,"Western Asia",142,145,Asia
+Lesotho,LS,LSO,Africa,"Sub-Saharan Africa",2,202,Africa
+Liberia,LR,LBR,Africa,"Sub-Saharan Africa",2,202,Africa
+Libya,LY,LBY,Africa,"Northern Africa",2,15,Africa
+Liechtenstein,LI,LIE,Europe,"Western Europe",150,155,Europe
+Lithuania,LT,LTU,Europe,"Northern Europe",150,154,Europe
+Luxembourg,LU,LUX,Europe,"Western Europe",150,155,Europe
+Macao,MO,MAC,Asia,"Eastern Asia",142,30,Asia
+Madagascar,MG,MDG,Africa,"Sub-Saharan Africa",2,202,Africa
+Malawi,MW,MWI,Africa,"Sub-Saharan Africa",2,202,Africa
+Malaysia,MY,MYS,Asia,"South-eastern Asia",142,35,Asia
+Maldives,MV,MDV,Asia,"Southern Asia",142,34,Asia
+Mali,ML,MLI,Africa,"Sub-Saharan Africa",2,202,Africa
+Malta,MT,MLT,Europe,"Southern Europe",150,39,Europe
+"Marshall Islands",MH,MHL,Oceania,Micronesia,9,57,Oceania
+Martinique,MQ,MTQ,Americas,"Latin America and the Caribbean",19,419,"South America"
+Mauritania,MR,MRT,Africa,"Sub-Saharan Africa",2,202,Africa
+Mauritius,MU,MUS,Africa,"Sub-Saharan Africa",2,202,Africa
+Mayotte,YT,MYT,Africa,"Sub-Saharan Africa",2,202,Africa
+Mexico,MX,MEX,Americas,"Latin America and the Caribbean",19,419,"South America"
+"Micronesia (Federated States of)",FM,FSM,Oceania,Micronesia,9,57,Oceania
+"Moldova, Republic of",MD,MDA,Europe,"Eastern Europe",150,151,Europe
+Monaco,MC,MCO,Europe,"Western Europe",150,155,Europe
+Mongolia,MN,MNG,Asia,"Eastern Asia",142,30,Asia
+Montenegro,ME,MNE,Europe,"Southern Europe",150,39,Europe
+Montserrat,MS,MSR,Americas,"Latin America and the Caribbean",19,419,"South America"
+Morocco,MA,MAR,Africa,"Northern Africa",2,15,Africa
+Mozambique,MZ,MOZ,Africa,"Sub-Saharan Africa",2,202,Africa
+Myanmar,MM,MMR,Asia,"South-eastern Asia",142,35,Asia
+Namibia,NA,NAM,Africa,"Sub-Saharan Africa",2,202,Africa
+Nauru,NR,NRU,Oceania,Micronesia,9,57,Oceania
+Nepal,NP,NPL,Asia,"Southern Asia",142,34,Asia
+Netherlands,NL,NLD,Europe,"Western Europe",150,155,Europe
+"New Caledonia",NC,NCL,Oceania,Melanesia,9,54,Oceania
+"New Zealand",NZ,NZL,Oceania,"Australia and New Zealand",9,53,Oceania
+Nicaragua,NI,NIC,Americas,"Latin America and the Caribbean",19,419,"South America"
+Niger,NE,NER,Africa,"Sub-Saharan Africa",2,202,Africa
+Nigeria,NG,NGA,Africa,"Sub-Saharan Africa",2,202,Africa
+Niue,NU,NIU,Oceania,Polynesia,9,61,Oceania
+"Norfolk Island",NF,NFK,Oceania,"Australia and New Zealand",9,53,Oceania
+"North Macedonia",MK,MKD,Europe,"Southern Europe",150,39,Europe
+"Northern Mariana Islands",MP,MNP,Oceania,Micronesia,9,57,Oceania
+Norway,NO,NOR,Europe,"Northern Europe",150,154,Europe
+Oman,OM,OMN,Asia,"Western Asia",142,145,Asia
+Pakistan,PK,PAK,Asia,"Southern Asia",142,34,Asia
+Palau,PW,PLW,Oceania,Micronesia,9,57,Oceania
+Palestine,PS,PSE,Asia,"Western Asia",142,145,Asia
+Panama,PA,PAN,Americas,"Latin America and the Caribbean",19,419,"South America"
+"Papua New Guinea",PG,PNG,Oceania,Melanesia,9,54,Oceania
+Paraguay,PY,PRY,Americas,"Latin America and the Caribbean",19,419,"South America"
+Peru,PE,PER,Americas,"Latin America and the Caribbean",19,419,"South America"
+Philippines,PH,PHL,Asia,"South-eastern Asia",142,35,Asia
+"Pitcairn Islands",PN,PCN,Oceania,Polynesia,9,61,Oceania
+Poland,PL,POL,Europe,"Eastern Europe",150,151,Europe
+Portugal,PT,PRT,Europe,"Southern Europe",150,39,Europe
+"Puerto Rico",PR,PRI,Americas,"Latin America and the Caribbean",19,419,"South America"
+Qatar,QA,QAT,Asia,"Western Asia",142,145,Asia
+Réunion,RE,REU,Africa,"Sub-Saharan Africa",2,202,Africa
+Romania,RO,ROU,Europe,"Eastern Europe",150,151,Europe
+Russia,RU,RUS,Europe,"Eastern Europe",150,151,Europe
+Rwanda,RW,RWA,Africa,"Sub-Saharan Africa",2,202,Africa
+"Saint Barthélemy",BL,BLM,Americas,"Latin America and the Caribbean",19,419,"South America"
+"Saint Helena, Ascension and Tristan da Cunha",SH,SHN,Africa,"Sub-Saharan Africa",2,202,Africa
+"Saint Kitts and Nevis",KN,KNA,Americas,"Latin America and the Caribbean",19,419,"South America"
+"Saint Lucia",LC,LCA,Americas,"Latin America and the Caribbean",19,419,"South America"
+"Saint Martin (French part)",MF,MAF,Americas,"Latin America and the Caribbean",19,419,"South America"
+"Saint Pierre and Miquelon",PM,SPM,Americas,"Northern America",19,21,"North America"
+"Saint Vincent and the Grenadines",VC,VCT,Americas,"Latin America and the Caribbean",19,419,"South America"
+Samoa,WS,WSM,Oceania,Polynesia,9,61,Oceania
+"San Marino",SM,SMR,Europe,"Southern Europe",150,39,Europe
+"São Tomé og Príncipe",ST,STP,Africa,"Sub-Saharan Africa",2,202,Africa
+"Saudi Arabia",SA,SAU,Asia,"Western Asia",142,145,Asia
+Senegal,SN,SEN,Africa,"Sub-Saharan Africa",2,202,Africa
+Serbia,RS,SRB,Europe,"Southern Europe",150,39,Europe
+Seychelles,SC,SYC,Africa,"Sub-Saharan Africa",2,202,Africa
+"Sierra Leone",SL,SLE,Africa,"Sub-Saharan Africa",2,202,Africa
+Singapore,SG,SGP,Asia,"South-eastern Asia",142,35,Asia
+"Sint Maarten (Dutch part)",SX,SXM,Americas,"Latin America and the Caribbean",19,419,"South America"
+Slovakia,SK,SVK,Europe,"Eastern Europe",150,151,Europe
+Slovenia,SI,SVN,Europe,"Southern Europe",150,39,Europe
+"Solomon Islands",SB,SLB,Oceania,Melanesia,9,54,Oceania
+Somalia,SO,SOM,Africa,"Sub-Saharan Africa",2,202,Africa
+"South Africa",ZA,ZAF,Africa,"Sub-Saharan Africa",2,202,Africa
+"South Georgia and the South Sandwich Islands",GS,SGS,Americas,"Latin America and the Caribbean",19,419,"South America"
+"South Sudan",SS,SSD,Africa,"Sub-Saharan Africa",2,202,Africa
+Spain,ES,ESP,Europe,"Southern Europe",150,39,Europe
+"Sri Lanka",LK,LKA,Asia,"Southern Asia",142,34,Asia
+Sudan,SD,SDN,Africa,"Northern Africa",2,15,Africa
+Suriname,SR,SUR,Americas,"Latin America and the Caribbean",19,419,"South America"
+"Svalbard and Jan Mayen",SJ,SJM,Europe,"Northern Europe",150,154,Europe
+Sweden,SE,SWE,Europe,"Northern Europe",150,154,Europe
+Switzerland,CH,CHE,Europe,"Western Europe",150,155,Europe
+"Syrian Arab Republic",SY,SYR,Asia,"Western Asia",142,145,Asia
+Taiwan,TW,TWN,Asia,"Eastern Asia",142,30,Asia
+Tajikistan,TJ,TJK,Asia,"Central Asia",142,143,Asia
+"Tanzania, United Republic of",TZ,TZA,Africa,"Sub-Saharan Africa",2,202,Africa
+Thailand,TH,THA,Asia,"South-eastern Asia",142,35,Asia
+Timor-Leste,TL,TLS,Asia,"South-eastern Asia",142,35,Asia
+Togo,TG,TGO,Africa,"Sub-Saharan Africa",2,202,Africa
+Tokelau,TK,TKL,Oceania,Polynesia,9,61,Oceania
+Tonga,TO,TON,Oceania,Polynesia,9,61,Oceania
+"Trinidad and Tobago",TT,TTO,Americas,"Latin America and the Caribbean",19,419,"South America"
+Tunisia,TN,TUN,Africa,"Northern Africa",2,15,Africa
+Türkiye,TR,TUR,Asia,"Western Asia",142,145,Asia
+Turkmenistan,TM,TKM,Asia,"Central Asia",142,143,Asia
+"Turks and Caicos Islands",TC,TCA,Americas,"Latin America and the Caribbean",19,419,"South America"
+Tuvalu,TV,TUV,Oceania,Polynesia,9,61,Oceania
+Uganda,UG,UGA,Africa,"Sub-Saharan Africa",2,202,Africa
+Ukraine,UA,UKR,Europe,"Eastern Europe",150,151,Europe
+"United Arab Emirates",AE,ARE,Asia,"Western Asia",142,145,Asia
+"United Kingdom",GB,GBR,Europe,"Northern Europe",150,154,Europe
+"United States",US,USA,Americas,"Northern America",19,21,"North America"
+"United States Minor Outlying Islands",UM,UMI,Oceania,Micronesia,9,57,Oceania
+Uruguay,UY,URY,Americas,"Latin America and the Caribbean",19,419,"South America"
+Uzbekistan,UZ,UZB,Asia,"Central Asia",142,143,Asia
+Vanuatu,VU,VUT,Oceania,Melanesia,9,54,Oceania
+Venezuela,VE,VEN,Americas,"Latin America and the Caribbean",19,419,"South America"
+Vietnam,VN,VNM,Asia,"South-eastern Asia",142,35,Asia
+"Virgin Islands (British)",VG,VGB,Americas,"Latin America and the Caribbean",19,419,"South America"
+"US Virgin Islands",VI,VIR,Americas,"Latin America and the Caribbean",19,419,"South America"
+"Wallis and Futuna",WF,WLF,Oceania,Polynesia,9,61,Oceania
+"Western Sahara",EH,ESH,Africa,"Northern Africa",2,15,Africa
+Yemen,YE,YEM,Asia,"Western Asia",142,145,Asia
+Zambia,ZM,ZMB,Africa,"Sub-Saharan Africa",2,202,Africa
+Zimbabwe,ZW,ZWE,Africa,"Sub-Saharan Africa",2,202,Africa
+Antartica,NULL,NULL,Antartica,Antartica,NULL,15,Antarctica
