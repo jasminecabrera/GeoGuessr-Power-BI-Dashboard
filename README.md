@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project analyzes the geographic distribution of GeoGuessr Daily Challenge locations from **June 1, 2021, through July 3, 2026**. Using historical Daily Challenge data, the analysis explores geographic patterns across countries and regions to determine whether certain locations appear more frequently than others.
+This project analyzes the geographic distribution of GeoGuessr Daily Challenge locations from **June 1, 2021, through July 4, 2026**. Using historical Daily Challenge data, the analysis explores geographic patterns across countries and regions to determine whether certain locations appear more frequently than others.
 
 The project demonstrates an end-to-end data analytics workflow, including data preparation with SQL, data modeling in Power BI, and interactive dashboard development using DAX.
 
