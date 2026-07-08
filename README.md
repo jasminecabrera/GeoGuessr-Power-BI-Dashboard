@@ -1,7 +1,5 @@
 # GeoGuessr Daily Challenge Location Dashboard
 
-**STATUS:** Currently in Progress!
-
 ## Overview
 
 This project analyzes the geographic distribution of GeoGuessr Daily Challenge locations from **June 1, 2021, through July 4, 2026**. Using historical Daily Challenge data, the analysis explores geographic patterns across countries and regions to determine whether certain locations appear more frequently than others.
