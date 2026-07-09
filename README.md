@@ -4,11 +4,7 @@
 
 This project analyzes the geographic distribution of GeoGuessr Daily Challenge locations from **June 1, 2021, through July 4, 2026**. Using historical Daily Challenge data, the analysis explores geographic patterns across countries and regions to determine whether certain locations appear more frequently than others.
 
-The project demonstrates an end-to-end data analytics workflow, including data preparation with SQL, data modeling in Power BI, and interactive dashboard development using DAX.
-
-## Motivation
-
-After regularly playing the GeoGuessr Daily Challenge, I noticed that Argentina seemed to appear much more frequently than expected. This observation prompted a broader question: are Daily Challenge locations distributed evenly around the world, or are certain locations selected more frequently?
+The project demonstrates an end-to-end data analytics workflow, from data cleaning and transformation in SQL to data modeling, DAX calculations, and interactive dashboard development in Power BI.
 
 ## Research Question
 
@@ -22,23 +18,54 @@ After regularly playing the GeoGuessr Daily Challenge, I noticed that Argentina 
 
 - **Geographic Mapping:** [ISO-3166 Countries with Regional Codes (via Kaggle)](https://www.kaggle.com/code/aungdev/create-country-codes-and-continents-csv-file?select=ISO-3166-Countries-with-Regional-Codes.csv) for country and region standardization.
 
-**Coverage**
+**Dataset Summary**
 
-- June 1, 2021 – July 4, 2026
-- Approximately 9,150 rounds
+- **Time Period:** June 1, 2021 – July 4, 2026
+- **Observations:** Approximately 9,150 rounds
 - Five rounds per Daily Challenge
 
-Each record represents a single round and contains the challenge date, round number, country, and region.
+Each record includes:
+
+- Challenge date
+- Round number
+- Country
+- Geographic region
 
 ## Tools
 
 | Tool | Purpose |
 | :--- | :--- |
-| SQL | Data cleaning, transformation, and preprocessing |
-| Power BI | Data modeling and interactive dashboard development |
-| DAX & Power Query | Measures and calculated columns |
+| SQL | Data cleaning, preprocessing, and transformation |
+| Power Query | Data preparation |
+| DAX | Measures, calculated columns, and KPIs |
+| Power BI | Data modeling and dashboard development |
 
-## Dashboard Preview
+## Methodology
+
+The project follows a complete analytics workflow:
+
+1. Imported historical GeoGuessr Daily Challenge data.
+2. Cleaned and standardized country names using SQL.
+3. Added ISO-3166 country reference table.
+4. Loaded transformed data into Power BI.
+5. Built a star schema.
+6. Created DAX measures to calculate country frequency, regional distribution, rankings, and percentage metrics.
+7. Developed an interactive Power BI dashboard to explore geographic patterns across countries, regions, and rounds.
+
+## Power BI Dashboard
+
+### Features
+
+The Power BI dashboard includes:
+
+- Interactive world map
+- Country and continent frequency analysis
+- Round by round comparisons
+- Top 10 country rankings
+- KPI summary cards
+- Interactive slicers and filters
+
+### Dashboard Preview
 
 <img width="1369" height="785" alt="Screenshot 2026-07-08 at 2 19 15 AM" src="https://github.com/user-attachments/assets/fa96435b-cfd6-4fc3-916d-4cba64031eca" />
 
@@ -49,25 +76,30 @@ Each record represents a single round and contains the challenge date, round num
 
 ### Executive Summary
 
-The map distribution is highly uneven. GeoGuessr daily challenges rely on a permanent regional bias that heavily favors Europe, while individual round positions feature predictable country shifts that make the game highly repetitive.
+The map distribution is highly uneven. The analysis reveals a consistent regional bias favoring Europe throughout the observed time period, while individual rounds exhibit predictable shifts in the countries that appear most frequently.
 
-### Core Analytics
+### Uneven Geographic Distribution:
 
-- Even though the Daily Challenge has featured **131 unique countries** overall, nearly a quarter of all rounds (**23.7%**) are located in just **10 countries**.
+Although the Daily Challenge has featured **131 unique countries**, location selection is highly concentrated. The **top 10 countries account for 23.7% of all rounds**, indicating a strong geographic bias rather than an even global distribution.
 
-- The United States is by far the most frequent country across all time with **308 total appearances**. Most of these rounds are highly clustered within just three states: **California (27)**, **Texas (20)**, and **New York (17)**.
+### Most Frequent Country:
 
-- At a macro level, the continental distribution is compeltely fixed from Round 1 through Round 5. **Europe** heavily dominates every round (ranging from **559 to 624 appearances**, while **Oceania** is barely featured between **57 and 76 appearances** across the board.
+The **United States** appeared **308 times**, making it the most frequently selected country during the analysis period. Most of these rounds were located within just three states: **California (27)**, **Texas (20)**, and **New York (17)**.
 
-- While the overall continental breakdown stays the same, the top country shifts depending on which round you are playing. The United States dominates the beginning and end of the game (peaking at **70 appearances** in **Round 2**). However, South America takes over the middle rounds, with **Argentina in Round 3 (55 appearances)** and **Brazil in Round 4 (60 appearances)**.
+### Regional Patterns:
 
-- The map becomes more repetitive as you play. The percentage of rounds landing in a Top 10 country climbs steadily from **23.4%** in Rounds 1 and 2 up to a peak of **26.1%** by Round 5.
+**Europe** heavily dominates every round, with between **559 to 624 appearances** per round position. In contrast, **Oceania** is barely featured with nonly **57 and 76 appearances** across each round.
 
-### Gameplay Tips
+### Round-Level Trends:
 
-- When you recognize standard European architecture but can't pin down the exact country, centralizing your guess in Europe is your safest default move to minimize point loss.
+Although continent-level representation changes very little between rounds, the most frequently selected countries vary throughout the challenge:
 
-- Pay extra attention to language and road clues in the middle rounds. Keep in mind that Argentina peaks as the #1 spot in Round 3 and Brazil in Round 4.
+- **Rounds 1-2:** United States appears most frequently.
+- **Round 3:** Argentina becomes the most common country.
+- **Round 4:** Brazil appears most frequently.
+- **Round 5:** United States again becomes the most common.
 
-- Because the final round is statistically the most predictable and clustered into the Top 10 countries (26.1%), trust in the data. If you are torn between a common country and a rare one in Round 5, always guess the common country.
+### Round Distribution Concentration:
+
+Although the top 10 countries differ by round, the geographic distribution becomes slightly more concentrated as the Daily Challenge progresses. The top 10 countries for each round account for **23.4%** of locations in Rounds 1 and 2, increasing to **26.1%** in Round 5. This suggests later rounds are drawn from a narrower set of commonly featured countries.
 
